@@ -126,4 +126,4 @@ Built on [OpenAirInterface](https://openairinterface.org/) and [FlexRIC](https:/
 
 ## License
 
-Released under the MIT License — see [`LICENSE`](LICENSE).
+Released under the MIT License.
